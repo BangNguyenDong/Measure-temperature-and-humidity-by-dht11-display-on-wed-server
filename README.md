@@ -1,1 +1,2 @@
-# Measure-temperature-and-humidity-by-dht11-display-on-wed-server
+Hello, I'm Nguyen Dong Bang, today I would like to introduce my first web design project
+To know how the project works, you can refer to the youtube link below
